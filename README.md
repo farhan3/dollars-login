@@ -25,7 +25,7 @@ You will need [Node.js](https://nodejs.org/).
 
 ####License
 This project is published under the [Apache License Version 2.0](
-https://github.com/farhan3/dollars-login/blob/master/LICENSE).
+https://github.com/farhan3/dollars-login/blob/master/LICENSE.txt).
 
 ####End Notes
 You are most welcome to [submit issues](
