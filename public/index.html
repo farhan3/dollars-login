@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+
+<html> 
+
+  <head> 
+    <link type="text/css" rel="stylesheet" href="css/stylesheet.css"/>
+    
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+
+    <title>The Dollars</title> 
+
+  </head>
+
+  <body onload="document.forms[0].password.focus()"> 
+    <div id="logo"> </div>
+
+    <form id="password" action="login" method="POST">
+
+      <div id="passwordDiv">
+        <div id="passwordTextDiv"> 
+          <span id="passwordStr">PASSWORD: </span>
+        </div>
+
+        <input type="password" name="password" id="passwordInput" 
+          maxlength="24">
+      </div>
+
+    <div id="submitDiv"> </div>
+
+    </form>
+
+  </body>
+
+</html>

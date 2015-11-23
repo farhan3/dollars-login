@@ -1,0 +1,36 @@
+{
+  "name": "dollars-login",
+  "version": "1.0.0",
+  "description": "The Dollars' login page from Durarara!!",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhan3/dollars-login.git"
+  },
+  "keywords": [
+    "dollars",
+    "drrr!!",
+    "drrr",
+    "durarara!!",
+    "durarara",
+    "login"
+  ],
+  "author": "Farhan Arshad",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/farhan3/dollars-login/issues"
+  },
+  "homepage": "https://github.com/farhan3/dollars-login#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "morgan": "^1.6.1"
+  }
+}
