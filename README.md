@@ -15,13 +15,13 @@ You will need [Node.js](https://nodejs.org/).
 ####How to run
 
     # clean the project
-    $ make clean
+    $ npm run clean
     
     # download the necessary dependencies  
-    $ make build
+    $ npm run build
 
     # run the app
-    $ node app.js
+    $ npm run start
 
 ####License
 This project is published under the [Apache License Version 2.0](
