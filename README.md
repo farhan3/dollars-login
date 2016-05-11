@@ -5,8 +5,7 @@ This is a small project that tries to recreate the login page of [The Dollars](
 http://durarara.wikia.com/wiki/Dollars).
 
 ####Demo
-You can find a live demo [here](http://farhan.io/dollars/). If you need to ask for the password, you're in the wrong place.
-
+You can find a live demo [here](http://farhan.io/dollars/).
 
 ####Requirements
 
